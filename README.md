@@ -9,7 +9,6 @@
 
 [✨ Live Demo](https://github.com/krish1195/Fitness-Webapp) | [🐛 Report Bug](https://github.com/krish1195/Fitness-Webapp/issues) | [🔥 Request Feature](https://github.com/krish1195/Fitness-Webapp/issues)
 
-![Fitness WebApp Banner](https://via.placeholder.com/800x400?text=Fitness+WebApp+Banner)
 
 ## ✨ Key Features
 
